@@ -1,3 +1,6 @@
 [submodule "stargaze-fe"]
 	path = stargaze-fe
 	url = https://github.com/ydagosto/stargaze-fe.git
+[submodule "stargaze-data"]
+	path = stargaze-data
+	url = https://github.com/ydagosto/stargaze-data.git
